@@ -430,7 +430,6 @@ Output:
 </p>
 </details>
 <br />
-
 #### Clean Up
 
 <details class="faq box"><summary>Clean Up</summary>
